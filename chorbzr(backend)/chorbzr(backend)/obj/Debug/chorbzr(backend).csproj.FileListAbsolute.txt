@@ -1,0 +1,10 @@
+D:\Asad work\semester 2\PROJECTS\chorbzr(backend)\chorbzr(backend)\obj\Debug\chorbzr(backend).csproj.AssemblyReference.cache
+D:\Asad work\semester 2\PROJECTS\chorbzr(backend)\chorbzr(backend)\obj\Debug\chorbzr(backend).csproj.CoreCompileInputs.cache
+D:\Asad work\semester 2\PROJECTS\chorbzr(backend)\chorbzr(backend)\bin\Debug\chorbzr(backend).exe.config
+D:\Asad work\semester 2\PROJECTS\chorbzr(backend)\chorbzr(backend)\bin\Debug\chorbzr(backend).exe
+D:\Asad work\semester 2\PROJECTS\chorbzr(backend)\chorbzr(backend)\bin\Debug\chorbzr(backend).pdb
+D:\Asad work\semester 2\PROJECTS\chorbzr(backend)\chorbzr(backend)\obj\Debug\chorbzr(backend).exe
+D:\Asad work\semester 2\PROJECTS\chorbzr(backend)\chorbzr(backend)\obj\Debug\chorbzr(backend).pdb
+D:\Asad work\semester 2\PROJECTS\chorbzr(backend)\chorbzr(backend)\bin\Debug\chorbzr.dll
+D:\Asad work\semester 2\PROJECTS\chorbzr(backend)\chorbzr(backend)\bin\Debug\chorbzr.pdb
+D:\Asad work\semester 2\PROJECTS\chorbzr(backend)\chorbzr(backend)\obj\Debug\chorbzr(backend).csproj.CopyComplete

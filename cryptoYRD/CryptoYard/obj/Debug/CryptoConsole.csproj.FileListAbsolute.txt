@@ -1,0 +1,6 @@
+C:\Users\XD GAMING\Desktop\OOP project\CryptoYard\bin\Debug\CryptoYard.dll
+C:\Users\XD GAMING\Desktop\OOP project\CryptoYard\bin\Debug\CryptoYard.pdb
+C:\Users\XD GAMING\Desktop\OOP project\CryptoYard\obj\Debug\CryptoConsole.csproj.AssemblyReference.cache
+C:\Users\XD GAMING\Desktop\OOP project\CryptoYard\obj\Debug\CryptoConsole.csproj.CoreCompileInputs.cache
+C:\Users\XD GAMING\Desktop\OOP project\CryptoYard\obj\Debug\CryptoYard.dll
+C:\Users\XD GAMING\Desktop\OOP project\CryptoYard\obj\Debug\CryptoYard.pdb
